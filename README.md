@@ -1,4 +1,4 @@
-Excellent — here’s your **Linux Fundamentals Test** cleanly separated into **Questions** and **Answers** sections as requested:
+ **Linux Fundamentals Test** cleanly separated into **Questions** and **Answers** sections as requested:
 
 ---
 
@@ -82,5 +82,3 @@ Excellent — here’s your **Linux Fundamentals Test** cleanly separated into *
 **Q15.** Write the command to recursively remove a directory called `myfolder`.
 
 ---
-
-✅ Done — would you like me to format this into a clean **Markdown document** or a printable **PDF-ready format** too? I can help set that up as well if you’d like!
